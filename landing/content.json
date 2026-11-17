@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "mode": "preview",
+  "launchReady": false,
+  "locale": "ru-RU",
+  "event": {
+    "name": "THE ART OF NOTES",
+    "titleLines": ["THE ART", "OF NOTES"],
+    "inviter": "Альфа-Банк приглашает",
+    "subtitle": "Вечер джаза и особого общения",
+    "dateISO": null,
+    "dateLabel": "Дата уточняется",
+    "startTime": null,
+    "timeLabel": "Время уточняется",
+    "timezone": null,
+    "venueName": null,
+    "venueLabel": "Площадка уточняется",
+    "address": null,
+    "addressLabel": "Адрес будет добавлен",
+    "mapUrl": "https://yandex.ru/maps/213/moscow/house/myasnitskaya_ulitsa_7s2/Z04YcARhSUcOQFtvfXt3cXpiYg==/?ll=37.631054%2C55.760635&z=19.43"
+  },
+  "navigation": [{"label": "О вечере", "href": "#evening"}, {"label": "Дресс-код", "href": "#dress-code"}],
+  "hero": {"cta": "Зарегистрироваться", "scrollLabel": "О вечере"},
+  "evening": {
+    "heading": "Вечер, в котором звучит главное",
+    "description": "Альфа-Банк приглашает на вечер живого джаза и особого общения. Камерная атмосфера, любимые музыкальные интонации и время для разговоров — в эстетике винтажного джазового клуба.",
+    "imageCaption": "Визуализация атмосферы вечера",
+    "copyApproved": false
+  },
+  "dressCode": {
+    "eyebrow": "Рекомендации к дресс-коду",
+    "heading": "В ритме вечера",
+    "intro": "Вечерняя элегантность",
+    "suggestions": ["Платье миди или макси, либо лаконичный вечерний костюм", "Тёмный костюм, светлая рубашка; галстук или бабочка — по желанию"],
+    "detail": "Бордовый, чёрный и кремовый. Бархат, шёлк и деликатные аксессуары.",
+    "colours": [{"label": "Бордовый", "hex": "#310D16"}, {"label": "Чёрный", "hex": "#23191C"}, {"label": "Кремовый", "hex": "#E9DDCA"}],
+    "copyApproved": false
+  },
+  "registration": {
+    "heading": "До встречи на вечере",
+    "description": "Подтвердите участие — заполните короткую форму",
+    "cta": "Зарегистрироваться",
+    "provider": "Google Forms",
+    "url": null,
+    "approvedForPersonalData": false,
+    "externalHint": "Откроется Google Форма в новой вкладке",
+    "placeholderMessage": "Ссылка на регистрацию будет добавлена",
+    "requestedFields": ["Фамилия"],
+    "collectOnLanding": false
+  },
+  "footer": {
+    "contactHeading": "По вопросам участия",
+    "contactEmail": null,
+    "contactPhone": null,
+    "contactPlaceholder": "Контакт организатора будет добавлен",
+    "organizerLegalName": null,
+    "personalDataOperator": null,
+    "privacyPolicyLabel": "Политика обработки персональных данных",
+    "privacyPolicyUrl": null,
+    "privacyPlaceholder": "Документ будет добавлен",
+    "consentDocumentUrl": null,
+    "participationTermsUrl": null,
+    "photoVideoNotice": null,
+    "copyrightLine": null
+  },
+  "seo": {
+    "title": "THE ART OF NOTES — вечер джаза | Альфа-Банк",
+    "description": "Вечер джаза и особого общения. Приглашение от Альфа-Банка, рекомендации к дресс-коду и регистрация.",
+    "indexable": false,
+    "canonicalUrl": null
+  }
+}
